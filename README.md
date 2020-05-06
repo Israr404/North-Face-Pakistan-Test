@@ -1,2 +1,2 @@
-# North-Face-Pakistan-Test
-North Face of Pakistan Test
+# North-Face-Pakistan
+North Face of Pakistan
